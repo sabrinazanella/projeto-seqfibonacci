@@ -8,7 +8,7 @@
 		<form action="processa.php" method="POST">
 			<label> DIGITE UM NÚMERO </label>
 			<input type="number" name="numdig"/>
-			<input type="submite" value="Enviar"/>
+			<input type="submit" value="Enviar"/>
 		</form>
 	</body>
 </html>
